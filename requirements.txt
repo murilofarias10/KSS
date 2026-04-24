@@ -1,0 +1,3 @@
+pytesseract
+Pillow 
+PyMuPDF # optional, for PDF/image handling 

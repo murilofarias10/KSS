@@ -1,0 +1,19 @@
+# Root ignores
+node_modules/
+dist/
+build/
+.env
+*.log
+venv/
+.vscode/
+
+# Project specific ignores
+backend/node_modules/
+backend/uploads/
+electrical-dashboard/node_modules/
+electrical-dashboard/build/
+
+# Ignore local PDFs and temp images
+*.pdf
+page_1.png
+notes.txt
